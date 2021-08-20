@@ -1,0 +1,8 @@
+---
+interfaces:
+    FastEthernet1/0:
+        description: "Conexion to WAN"
+        ipv4_addr: 172.16.0.1
+        ipv4_mask: 255.255.255.0
+
+
